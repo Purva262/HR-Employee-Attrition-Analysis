@@ -107,5 +107,6 @@ HR-Employee-Attrition-Analysis/
 
 ## Author
 
-**Your Name**
-[LinkedIn](www.linkedin.com/in/purva-surve-10350531a) | [GitHub]((https://github.com/Purva262)) | purvasurve2600@gmail.com
+**Purva Surve**
+
+[LinkedIn](https://www.linkedin.com/in/purva-surve-10350531a) | [GitHub](https://github.com/Purva262) | purvasurve2600@gmail.com
