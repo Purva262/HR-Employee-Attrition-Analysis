@@ -108,4 +108,4 @@ HR-Employee-Attrition-Analysis/
 ## Author
 
 **Your Name**
-[LinkedIn](https://linkedin.com/in/your-profile) | [GitHub](https://github.com/your-username) | your.email@example.com
+[LinkedIn](https://linkedin.com/in/your-profile) | [GitHub]((https://github.com/Purva262)) | purvasurve2600@gmail.com
